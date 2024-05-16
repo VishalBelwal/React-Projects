@@ -8,4 +8,7 @@ Moreover, I wholeheartedly welcome contributions from the community. If you have
 
 Lastly, it's important to note that all projects within this repository are licensed under the MIT License. This permissive license grants you the freedom to use, modify, and distribute the code for both personal and commercial purposes, with minimal restrictions. I believe in the ethos of open source and the power of sharing knowledge, and I hope that by making these projects available to the community, they can serve as valuable learning resources and inspire others to embark on their own coding journeys.
 
-So, without further ado, let the exploration begin! Whether you're here to learn, contribute, or simply admire the craftsmanship behind each project, I'm thrilled to have you on this journey with me. Happy coding!
+So, without further ado, let the exploration begin! Whether you're here to learn, contribute, or simply admire the craftsmanship behind each project, I'm thrilled to have you on this journey with me. 
+
+
+Happy coding!
